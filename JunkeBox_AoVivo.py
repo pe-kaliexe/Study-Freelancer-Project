@@ -1,4 +1,4 @@
-# Exemplo de Sistema de Escolha de Músicas
+# Projeto Freelancer e de Estudos em Python
 # Backend simples usando Flask e Socket.IO para comunicação em tempo real.
 
 from flask import Flask, render_template, request, jsonify
